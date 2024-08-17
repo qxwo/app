@@ -1,0 +1,149 @@
+{
+  "unpublishedPage": {
+    "name": "Page1",
+    "slug": "page1",
+    "layouts": [
+      {
+        "viewMode": false,
+        "dsl": {
+          "widgetName": "MainContainer",
+          "backgroundColor": "none",
+          "rightColumn": 4896,
+          "snapColumns": 64,
+          "detachFromLayout": true,
+          "widgetId": "0",
+          "topRow": 0,
+          "bottomRow": 1290,
+          "containerStyle": "none",
+          "snapRows": 125,
+          "parentRowSpace": 1,
+          "type": "CANVAS_WIDGET",
+          "canExtend": true,
+          "version": 71,
+          "minHeight": 1292,
+          "dynamicTriggerPathList": [],
+          "parentColumnSpace": 1,
+          "dynamicBindingPathList": [],
+          "leftColumn": 0,
+          "children": [
+            {
+              "widgetName": "list1",
+              "buttonColor": "#03b365",
+              "isCanvas": false,
+              "displayName": "列表",
+              "iconSVG": "/static/media/icon.9925ee17dee37bf1ba7374412563a8a7.svg",
+              "searchTags": [
+                "list"
+              ],
+              "topRow": 1,
+              "bottomRow": 25,
+              "parentRowSpace": 10,
+              "type": "TARO_LIST_WIDGET",
+              "hideCard": false,
+              "parentColumnSpace": 6.84375,
+              "dynamicTriggerPathList": [],
+              "titleColor": "#646566",
+              "leftColumn": 2,
+              "dynamicBindingPathList": [],
+              "isMobile": true,
+              "contentType": "I_N_D",
+              "key": "h6qpuh8x6b",
+              "height": "80px",
+              "isDeprecated": false,
+              "rightColumn": 58,
+              "inset": false,
+              "priceColor": "#DD4B34",
+              "widgetId": "mdqoplucut",
+              "descriptionKey": "description",
+              "descriptionColor": "#999",
+              "isVisible": true,
+              "list": "[\n  {\n    \"url\": \"\",\n    \"name\": \"标题\",\n    \"description\": \"描述\"\n  },\n  {\n    \"url\": \"\",\n    \"name\": \"标题\",\n    \"description\": \"描述\"\n  },\n  {\n    \"url\": \"\",\n    \"name\": \"标题\",\n    \"description\": \"描述\"\n  },\n  {\n    \"url\": \"\",\n    \"name\": \"标题\",\n    \"description\": \"描述\"\n  }\n]",
+              "titleKey": "name",
+              "parentId": "0",
+              "urlKey": "url",
+              "renderMode": "CANVAS",
+              "isLoading": false,
+              "controlType": "BUTTON",
+              "width": "100px"
+            },
+            {
+              "widgetName": "grid1",
+              "buttonColor": "#03b365",
+              "isCanvas": false,
+              "displayName": "网格",
+              "iconSVG": "/static/media/icon.8ced2ee28cf2035053835549eab9ded1.svg",
+              "searchTags": [
+                "grid"
+              ],
+              "topRow": 26,
+              "bottomRow": 50,
+              "parentRowSpace": 10,
+              "bordered": true,
+              "type": "TARO_GRID_WIDGET",
+              "hideCard": false,
+              "parentColumnSpace": 6.84375,
+              "titleColor": "#646566",
+              "leftColumn": 2,
+              "dynamicBindingPathList": [],
+              "gridType": "I_N",
+              "isMobile": true,
+              "cols": 4,
+              "key": "qf33fcxosz",
+              "priceUnit": "￥",
+              "isDeprecated": false,
+              "rightColumn": 58,
+              "widgetId": "81o3wayga0",
+              "descriptionColor": "#DD4B34",
+              "isVisible": true,
+              "list": [
+                {
+                  "url": "",
+                  "name": "文本"
+                },
+                {
+                  "url": "",
+                  "name": "文本"
+                },
+                {
+                  "url": "",
+                  "name": "文本"
+                },
+                {
+                  "url": "",
+                  "name": "文本"
+                },
+                {
+                  "url": "",
+                  "name": "文本"
+                },
+                {
+                  "url": "",
+                  "name": "文本"
+                }
+              ],
+              "titleKey": "name",
+              "parentId": "0",
+              "urlKey": "url",
+              "renderMode": "CANVAS",
+              "isLoading": false,
+              "gutter": "0"
+            }
+          ]
+        },
+        "layoutOnLoadActions": [],
+        "layoutOnLoadActionErrors": [],
+        "validOnPageLoadActions": true,
+        "id": "Page1",
+        "deleted": false,
+        "policies": [],
+        "userPermissions": []
+      }
+    ],
+    "userPermissions": [],
+    "policies": [],
+    "isHidden": false,
+    "icon": "smile-o"
+  },
+  "deleted": false,
+  "gitSyncId": "66bdb9a09d28026fe788b40f_66bdb9a09d28026fe788b411"
+}
